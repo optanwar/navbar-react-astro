@@ -51,7 +51,7 @@ const Navbar = () => {
       <nav>
         <NavLink to="/">
           {/* <img className="company-logo" src={logo} alt="Company Logo" /> */}{" "}
-          Website
+          OPTAWNAR
         </NavLink>
         <div>
           <ul id="navbar" className={show ? "#navbar active" : "#navbar"}>
@@ -59,7 +59,7 @@ const Navbar = () => {
               <IoMdClose />
             </div>
             {/*           <li className='padding-mobile-nav text-center d-lg-none'><img className='company-logo' src={logo} alt="Company Logo" /></li> */}
-            Website
+            {/* OPTANAWAR */}
             <li
               onClick={() => {
                 handleClose();
