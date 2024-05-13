@@ -51,7 +51,7 @@ const Navbar = () => {
       <nav>
         <NavLink to="/">
           {/* <img className="company-logo" src={logo} alt="Company Logo" /> */}{" "}
-          OPTAWNAR
+          Website logo
         </NavLink>
         <div>
           <ul id="navbar" className={show ? "#navbar active" : "#navbar"}>
